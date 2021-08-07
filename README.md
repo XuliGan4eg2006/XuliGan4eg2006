@@ -5,5 +5,9 @@
 ## My name is Dmitry and I'am actively looking for myself in IT ✨
 
 - 📫 How to reach me: Telegram: @xuligan4eg20_06
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔰 Programming languages that I know: Python, C#(in the process of studying)
+- ⚡ Fun fact: you can get 10 bitcoins if you click <a href="https://youtu.be/dQw4w9WgXcQ">here</a>
+
+## My open source projects which I'm really proud of
+
+- 〽 There are no such
