@@ -1,6 +1,7 @@
 ### Welcome 👋
 
 ![image](https://user-images.githubusercontent.com/62839426/128599506-04ceb80f-84dc-4dab-a1ef-706bf5c83882.png)
+###### Welcome to Sportmaster (Russian meme)
 
 ## My name is Dmitry and I'am actively looking for myself in IT ✨
 
@@ -10,4 +11,4 @@
 
 ## My open source projects which I'm really proud of
 
-- 〽 There are no such
+- 🔊 <a href="https://t.me/spoti_down_bot">@spoti_down_bot</a> Telegram bot for downloading tracks from spotify (open source soon)
