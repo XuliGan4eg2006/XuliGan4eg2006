@@ -6,8 +6,7 @@
 ## My name is Dmitry and I'am actively looking for myself in IT ✨
 
 - 📫 How to reach me: Telegram: <a href="https://t.me/xuligan4eg20_06">@xuligan4eg20_06</a>
-- 🔰 Programming languages that I know: Python, C#(in the process of studying)
-- ⚡ Fun fact: you can get 10 bitcoins if you click <a href="https://youtu.be/dQw4w9WgXcQ">here</a>
+- 🔰 Programming languages that I know: Python, Kotlin
 
 ## My open source projects which I'm really proud of
 
