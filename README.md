@@ -10,4 +10,4 @@
 
 ## My open source projects which I'm really proud of
 
-- 🔊 <a href="https://t.me/spoti_down_bot">@spoti_down_bot</a> Telegram bot for downloading tracks from spotify (open source soon)
+None LOL
