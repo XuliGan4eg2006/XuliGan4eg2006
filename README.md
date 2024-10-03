@@ -5,9 +5,11 @@
 
 ## My name is Dmitry and I'am actively looking for myself in IT ✨
 
-- 📫 How to reach me: Telegram: <a href="https://t.me/xuligan4eg20_06">@xuligan4eg20_06</a>
-- 🔰 Programming languages that I know: Python, Kotlin
+- 📫 How to reach me: Telegram: <a href="https://t.me/circle_of_winds">@circle_of_winds</a>
+- 🔰 Programming languages that I know: Python, Kotlin, Rust
 
-## My open source projects which I'm really proud of
-
-None LOL
+## My skills
+- Hardware reverse engineering
+- Software reverse engineering
+- Mobile apps with backend part
+- Desktop and microcomputer (also microcontrollers) apps
